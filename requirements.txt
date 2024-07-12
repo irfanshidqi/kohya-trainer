@@ -19,13 +19,13 @@ requests==2.31.0
 timm==0.6.12
 fairscale==0.4.13
 # for WD14 captioning
-huggingface-hub==0.13.4
+huggingface-hub==0.15.1
 # for kohya trainer colab
 gallery-dl==1.25.1
 gdown==4.7.1
 imjoy-elfinder==0.1.61
 dadaptation==1.5
-lion-pytorch==0.0.6
+lion-pytorch==0.1.2
 # for network module
 # locon==0.0.4
 lycoris-lora==0.1.4
