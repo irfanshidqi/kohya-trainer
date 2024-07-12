@@ -29,7 +29,6 @@ lion-pytorch==0.0.6
 # for network module
 # locon==0.0.4
 lycoris-lora==0.1.4
-xformers==0.0.26.post1
 # for kohya_ss library
 jax==0.4.23
 jaxlib==0.4.23
